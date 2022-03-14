@@ -1,1 +1,0 @@
-web: sh setup.sh && streamlit run real_estate_company_app.py
